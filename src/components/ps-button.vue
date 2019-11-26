@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'PsButton',
+  name: 'ps-button',
   props: {
     icon: {
       type: String,

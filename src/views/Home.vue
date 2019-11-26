@@ -1,6 +1,9 @@
 <template>
   <div class="home">
     <div class="separator">
+      <ps-button />
+    </div>
+    <div class="separator">
       <ps-button @click="evt" class="deep-orange accent-1">
         Boton1
       </ps-button>
